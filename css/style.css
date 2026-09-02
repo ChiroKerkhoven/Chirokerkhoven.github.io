@@ -45,6 +45,7 @@ a {
   justify-content: space-between;
   padding: 0.75rem 2rem;
   position: relative;
+  z-index: 1;
 }
 
 .brand {
