@@ -25,7 +25,4 @@ window.galleryPhotos = [
   { src: "images/Photos/activiteit23.jpg", alt: "Chiro activiteit foto 23" },
   { src: "images/Photos/activiteit24.jpg", alt: "Chiro activiteit foto 24" },
   { src: "images/Photos/activiteit25.jpg", alt: "Chiro activiteit foto 25" },
-  { src: "images/Photos/activiteit26.jpg", alt: "Chiro activiteit foto 26" },
-  { src: "images/Photos/activiteit27.jpg", alt: "Chiro activiteit foto 27" },
-  { src: "images/Photos/activiteit28.jpg", alt: "Chiro activiteit foto 28" },
 ];
